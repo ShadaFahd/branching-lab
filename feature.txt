@@ -1,3 +1,5 @@
 This is a new feature.
 This is a conflicting line.
 This is another conflicting line.
+Temporary change
+Another temporary change
